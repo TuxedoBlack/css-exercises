@@ -1,0 +1,19 @@
+/*css stylesheet for the 01-class-id-selectors practive by TOP*/
+.none,
+.nthree,
+.nfive {
+    background-color: lightpink;
+    font-family: verdana, Dejavu Sans, San-serif;
+}
+#ntwo{
+    color: blue;
+    font-size: 36px;
+}
+.nthree{
+    font-size: 24px;
+}
+#nfour{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
