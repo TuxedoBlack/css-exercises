@@ -1,4 +1,4 @@
-p{
+.para{
     background-color: palevioletred;
     font-family: "Verdana", "DejaVu Sans", "sans-serif";
 }
@@ -6,7 +6,7 @@ p{
   color: blue;
   font-size: 36px;  
 }
-.para-two{
+.para.cool{
     font-size: 24px;
 }
 #division-two{
